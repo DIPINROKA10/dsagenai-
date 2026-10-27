@@ -1,0 +1,11 @@
+{
+  "classifier_test_accuracy": 98.42,
+  "cvae_test_recon_loss": 34.18,
+  "target_accuracy_met": true,
+  "epochs_classifier": 4,
+  "epochs_cvae": 10,
+  "latent_dim": 16,
+  "num_classes": 10,
+  "device": "cpu",
+  "test_samples_evaluated": 10000
+}

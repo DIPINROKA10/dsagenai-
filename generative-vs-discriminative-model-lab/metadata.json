@@ -1,0 +1,8 @@
+{
+  "name": "Generative vs Discriminative Model Lab",
+  "description": "Interactive MNIST laboratory comparing discriminative CNN classifiers and generative Conditional VAEs, featuring live digit drawing, latent sampling, and full Python project code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
